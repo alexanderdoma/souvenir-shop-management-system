@@ -1,0 +1,7 @@
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+/target/
+/src/main/resources/keys/paypal.properties

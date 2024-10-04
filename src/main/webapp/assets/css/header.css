@@ -1,0 +1,8 @@
+#header {
+    transition: transform 0.2s ease-in-out;
+}
+
+.hide {
+    transform: translateY(-100%);
+    transition: .2s;
+}
